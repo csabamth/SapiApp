@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="primary_material_light">#4BCB61</color>
+    <color name="accent_material_light">#4bcb61</color>
+    <color name="primary_dark_material_light">#399448</color>
+    <color name="background_material_light">#f6f9fc</color>
+</resources>
